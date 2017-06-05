@@ -1,0 +1,5 @@
+six
+oauthlib
+requests
+requests_oauthlib
+tweepy
